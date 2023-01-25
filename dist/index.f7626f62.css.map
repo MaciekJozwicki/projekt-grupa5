@@ -1,0 +1,1 @@
+{"mappings":"ACAA;;;;;;;;;AAUA;;;;;;;;;;AAUA","sources":["src/sass/main.scss","src/sass/_example.scss"],"sourcesContent":["/*\n * Główny plik dla stylów.\n * Wszystkie partials podłączamy tutaj.\n */\n\n// Style dla pliku z przykładem HTML fragmentu\n@import './example';\n",null],"names":[],"version":3,"file":"index.f7626f62.css.map","sourceRoot":"/__parcel_source_root/"}
